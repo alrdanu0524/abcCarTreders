@@ -46,6 +46,7 @@ namespace abcCarTreders
 
         private void clearData()
         {
+            //cleate tf data and set cursor
             txtName.ResetText();
             txtPass.ResetText();
             txtName.Focus();
