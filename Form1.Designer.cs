@@ -66,7 +66,7 @@
             Controls.Add(txtPass);
             Controls.Add(txtName);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Vehicle Registration";
             ResumeLayout(false);
             PerformLayout();
         }
